@@ -2,7 +2,7 @@ package com.latihan;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void SalamJava(String[] args) {
         System.out.println("Salam Java");
     }
 }
